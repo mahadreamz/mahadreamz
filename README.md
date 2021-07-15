@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Maharajan, working as a senior software engineer.
-- 👀 I’m interested in Microservices architecture
-- 🌱 I’m currently learning technologies required to build microservices arch such as Docker, K8s, vault, RabbitMQ, and so on.. 
+- 👋 Hi, I’m Maharajan, working as a senior software engineer in the distributed backend systems.
+- 🌱 Focussing on scaling problems using the tools such as Microservices, Docker, K8s, vault, RabbitMQ, and so on.
+- Seasonal ReactJS developer, interested in developing modern front end frameworks. 
 
 
 <!---
